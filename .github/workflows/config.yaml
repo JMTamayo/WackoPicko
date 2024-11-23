@@ -7,5 +7,3 @@ language: EN
 sca:
   include:
     - .
-  exclude:
-    - glob(**/test/**)
